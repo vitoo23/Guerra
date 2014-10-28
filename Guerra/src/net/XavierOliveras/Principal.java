@@ -38,6 +38,7 @@ public class Principal extends GraphicsProgram {
 			imatge1.move(-10, 0);
 		}
 		
+		
 		//for (int i=0;i<=8;i++){
 			//GImage goku = new GImage("goku.png");
 		//}
